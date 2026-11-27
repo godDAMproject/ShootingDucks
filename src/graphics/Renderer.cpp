@@ -1,5 +1,5 @@
-#include "Renderer.h"
-#include "AssetManager.h"
+#include "graphics/Renderer.h"
+#include "graphics/AssetManager.h"
 
 Renderer::Renderer(sf::RenderWindow& window) : m_window(window) {}
 

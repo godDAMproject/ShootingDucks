@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Duck.h"
-#include "Bullet.h"
-#include "Hunter.h"
+#include "logic/Duck.h"
+#include "logic/Bullet.h"
+#include "logic/Hunter.h"
 #include <vector>
 #include <memory>
 

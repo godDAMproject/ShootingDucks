@@ -1,4 +1,4 @@
-#include "InputHandler.h"
+#include "graphics/InputHandler.h"
 
 InputHandler::InputHandler(sf::RenderWindow& window) : m_window(window) {}
 

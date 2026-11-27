@@ -1,5 +1,5 @@
 #pragma once
-#include "GameState.h"
+#include "management/GameState.h"
 
 class StateMachine {
 public:

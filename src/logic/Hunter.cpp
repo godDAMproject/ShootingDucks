@@ -1,4 +1,4 @@
-#include "Hunter.h"
+#include "logic/Hunter.h"
 
 Hunter::Hunter() {
     x = 400.f;  // центр экрана

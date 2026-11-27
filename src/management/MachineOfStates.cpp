@@ -1,4 +1,4 @@
-#include "StateMachine.h"
+#include "management/MachineOfStates.h"
 #include "Game.h"      //нужно создать класс самой игры (с графикой и логикой)
 
 StateMachine::~StateMachine() {

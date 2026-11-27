@@ -1,6 +1,6 @@
 #pragma once
 
-#include "GameObject.h"
+#include "logic/GameObject.h"
 
 class Duck : public GameObject {
 public:

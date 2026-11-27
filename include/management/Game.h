@@ -1,9 +1,9 @@
 #pragma once
 #include <SFML/Graphics.hpp>
-#include "StateMachine.h"
+#include "management/MachineOfStates.h"
 #include "graphics/Renderer.h"
 #include "graphics/InputHandler.h"
-#include "entities/Hunter.h"
+#include "logic/Hunter.h"
 
 class Game {
 public:

@@ -1,4 +1,4 @@
-#include "Duck.h"
+#include "logic/Duck.h"
 #include <cmath>
 #include <cstdlib>
 

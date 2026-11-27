@@ -1,5 +1,5 @@
-#include "Game.h"
-#include "MenuState.h"
+#include "management/Game.h"
+#include "management/StateMenu.h"
 #include "graphics/AssetManager.h"
 #include <ctime>
 

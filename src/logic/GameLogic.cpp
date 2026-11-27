@@ -1,4 +1,4 @@
-#include "GameLogic.h"
+#include "logic/GameLogic.h"
 #include <cstdlib>
 #include <ctime>
 #include <algorithm>

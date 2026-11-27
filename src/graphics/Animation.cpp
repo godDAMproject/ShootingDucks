@@ -1,4 +1,4 @@
-#include "Animation.h"
+#include "graphics/Animation.h"
 #include <cmath>
 
 Animation::Animation(const sf::Texture& texture, int frameWidth, int frameHeight, int frameCount, float frameTime)

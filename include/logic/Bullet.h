@@ -1,6 +1,6 @@
 #pragma once
 
-#include "GameObject.h"
+#include "logic/GameObject.h"
 
 class Bullet : public GameObject {
 public:

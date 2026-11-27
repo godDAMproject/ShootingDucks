@@ -1,5 +1,5 @@
 #include <SFML/Graphics.hpp>
-#include "GameLogic.h"
+#include "logic/GameLogic.h"
 
 int main() {
     sf::RenderWindow window(sf::VideoMode(800, 600), "Duck Shooter - Test");

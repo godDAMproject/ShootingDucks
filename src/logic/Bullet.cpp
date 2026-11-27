@@ -1,4 +1,4 @@
-#include "Bullet.h"
+#include "logic/Bullet.h"
 #include <cmath>
 
 Bullet::Bullet(float startX, float startY, float targetX, float targetY) {

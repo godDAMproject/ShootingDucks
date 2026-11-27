@@ -1,7 +1,7 @@
 #pragma once
 
-#include "GameObject.h"
-#include "Bullet.h"
+#include "logic/GameObject.h"
+#include "logic/Bullet.h"
 
 class Hunter : public GameObject {
 public:
